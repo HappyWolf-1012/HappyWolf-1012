@@ -33,8 +33,8 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mary&show_icons=true&locale=en&layout=compact" alt="happywolfs1012" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kkpan11&show_icons=true&locale=en" alt="happywolfs1012" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kkpan11&show_icons=true&locale=en" alt="happywolfs1012" /></p> -->
+<p>&nbsp;<img align="center" src="./history.svg" alt="happywolfs1012" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkpan11&" alt="happywolfs1012" /></p>
 
 <details>
